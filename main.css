@@ -1,0 +1,129 @@
+  html {
+
+
+                body {
+                margin: 0;
+                font-family: Arial, sans-serif;
+                font-size: 30px;
+                font-weight: bold;
+                background-image: url('img/bliss.jpg');
+                background-size: cover;
+                background-position: center;
+                
+
+            }
+
+
+
+
+
+
+
+            header {
+                
+                width: 100%;
+                font-size: 30px;
+                font-family: Comic Sans MS, cursive, sans-serif;
+                text-align: center;
+                background-color: #0aa32c;
+                color: rgb(255, 255, 255);
+                display: flex;
+                align-items: center;
+                justify-content: center;
+
+                img {
+                    width: 50px;
+                    height: 50px;     
+                    align-items: left;
+                }
+                
+                
+                
+            }
+            
+
+
+
+
+
+
+            .Überschrift {
+                font-size: 2.5em;
+                text-align: center;
+                margin-top: 50px;
+                color: rgb(255, 255, 255);
+
+
+            }
+
+
+
+
+
+
+
+            .Text1 {
+                margin-top: 50px;
+                font-size: 30px;
+                color:#FFFFFF;
+                line-height: 1.6; 
+                max-width: auto;
+                text-align: center;
+                -webkit-text-stroke: 0.5px #000;
+                text-shadow: 1px 1px 1px rgba(0, 0, 0, 1);
+                
+
+    
+            }
+
+
+
+
+
+
+            .Button
+            {
+                align-items: center;
+                padding-bottom: 20px; 
+                border: 2px solid #625988; 
+                border-radius: 5px;
+                padding: 10px
+                
+                
+            }
+
+
+
+            .old_Gifs
+            {
+                width: 88px; 
+                height: 31px;
+            }
+
+
+
+            a {
+                color: #625988;
+                text-decoration: none;
+
+
+            }
+
+
+            a:hover {
+                color: #0c052c;
+                text-decoration: none;
+                
+
+            }
+
+
+
+
+
+
+
+        }
+
+
+
